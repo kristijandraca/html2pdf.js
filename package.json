@@ -1,6 +1,6 @@
 {
   "name": "@ssamilg/html2pdf.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of html2pdf.js with dependency updates",
   "main": "dist/html2pdf.js",
   "files": [
